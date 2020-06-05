@@ -1,0 +1,27 @@
+{
+  "name": "face-and-expression-detection",
+  "version": "1.0.0",
+  "description": "Realtime Face & Expression Detection",
+  "main": "face-api.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souravpaul8/Face-and-Expression-Detection.git"
+  },
+  "keywords": [
+    "face"
+  ],
+  "author": "Sourav Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/souravpaul8/Face-and-Expression-Detection/issues"
+  },
+  "homepage": "https://github.com/souravpaul8/Face-and-Expression-Detection#readme",
+  "devDependencies": {
+    "eslint": "^7.1.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  }
+}
